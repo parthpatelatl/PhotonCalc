@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\parth\\Desktop\\SampleCalc\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\parth\\Desktop\\SampleCalc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\parth\\Desktop\\PhotonCalc\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\parth\\Desktop\\PhotonCalc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
